@@ -211,7 +211,7 @@ h3{
 }
 .economic-crisis{
     margin-top: 45px;
-
+display: inline-block;
 }
 .economic-crisis h1{
     text-align: center;
@@ -222,7 +222,7 @@ h3{
     width: 30%;
     color: black;
     margin-left: 130px;
-}
+}  
 .economic-box2 p:hover{
     background-color: #6172bdf6;
     transition: 0.9s;
@@ -263,7 +263,7 @@ h3{
         top: 15px;
         font-size: 5px;
         margin: -6px;
-        margin-left: -108px;
+        margin-left: -85px;
     }
     .economic-box1{
         display: block;
@@ -272,7 +272,7 @@ h3{
      
     }
     .economic-box2{
-        display: block;
+        display:block;
         width: 900px;
         margin-left: -78px;
      
