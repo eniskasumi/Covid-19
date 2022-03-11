@@ -207,11 +207,11 @@ h3{
     transition: 0.9s;
     color: white;
     border-radius: 10px;
-    display: inline-flexbox;
+    
 }
 .economic-crisis{
     margin-top: 45px;
-display: inline-block;
+   
 }
 .economic-crisis h1{
     text-align: center;
@@ -228,18 +228,18 @@ display: inline-block;
     transition: 0.9s;
     color: white;
     border-radius: 10px;
+
    
 }
 
 .economic-box2{
     display: inline-block;
-    position: relative;
-    width: 70%;
+    
+    /* width: 70%; */
 }
 .economic-box1{
     display: inline-block;
-    position: relative;
-    width: 70%;
+    /* width: 70%; */
 }
 
 
